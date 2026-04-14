@@ -1,2 +1,2 @@
 # python
-palindrome
+palindrome.py
